@@ -1,5 +1,5 @@
 #########################
-#	*****STOP DNS LEAKS***** 		#
+#	*** STOP DNS LEAKS ***#
 #########################
 
 # this script installs VPNSecure, openresolv script, openresolv, set permissions, disable IPv6
